@@ -15,7 +15,7 @@ buildscript {
 allprojects {
     repositories {
         flatDir {
-            dirs "${project(':unityLibrary').projectDir}/libs"
+            dirs "${project(':unityLibrary2').projectDir}/libs"
         }
 
         google()
