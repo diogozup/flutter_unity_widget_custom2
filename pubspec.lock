@@ -357,7 +357,7 @@ packages:
   flutter_unity_widget:
     dependency: "direct main"
     description:
-      path: flutter_unity_widget_custom
+      path: "../flutter_unity_widget_custom"
       relative: true
     source: path
     version: "2022.2.0"
