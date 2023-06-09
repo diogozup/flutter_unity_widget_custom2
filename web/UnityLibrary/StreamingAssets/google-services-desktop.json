@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "1013807392806",
+    "project_id": "gamesinc-11101",
+    "storage_bucket": "gamesinc-11101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013807392806:android:bedf50f0a6beffcefb5ee7",
+        "android_client_info": {
+          "package_name": "com.pandasolutions.gamesinc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013807392806-7gksohlfug4i60vlth4f153e5mo5qba4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pandasolutions.gamesinc",
+            "certificate_hash": "8017fdcd23b0edabc1898123bb42ac4e7b8f40b2"
+          }
+        },
+        {
+          "client_id": "1013807392806-a8lmi1km323ntmfsu5nsj2k69u0vl9s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pandasolutions.gamesinc",
+            "certificate_hash": "55201cdeef275943cfdc79e1583af5431f21ed03"
+          }
+        },
+        {
+          "client_id": "1013807392806-h535hjsmbhocmvmohu78r2bhu51p6q93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pandasolutions.gamesinc",
+            "certificate_hash": "3dc73f299dbe88be61b1ea461ea5a287948701b2"
+          }
+        },
+        {
+          "client_id": "1013807392806-ud6434ssg16fklp5736823mi1ij2qg5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTmMR1dHtRyAlMs0AtTHB7fZyOiV4VSnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013807392806-ud6434ssg16fklp5736823mi1ij2qg5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1013807392806-9d97n4p9oml6no252h0sse7uhsoegrca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pandasolutions.gamesinc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
