@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:pandacasino/screens/unity/UnityMainScreen.dart';
+import 'package:pandacasino_scratcher/screens/unity/UnityMainScreen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -28,7 +28,7 @@ class _MyHomePageState extends State<HomeScreen> {
           child: Text("GO GAME "),
           onPressed: () {
             Navigator.push(context, MaterialPageRoute(builder: (context) {
-              return UnityMainScreen();
+              return NestedUnityMainScreen();
             }));
           },
         ),
